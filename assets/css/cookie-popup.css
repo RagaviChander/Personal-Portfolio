@@ -9,9 +9,9 @@
   left: 0;
   background-color: #333;
   color: #fff;
-  padding: 2rem;
+  padding: 70px;
   text-align: center;
-  font-size: 1.25rem;
+  font-size: 16px;
   max-width: 100%;
   height: auto;
   z-index: 9999;
@@ -22,7 +22,7 @@
 }
 
 #cookie-popup a:hover {
-  color: lightpink;
+  color: rgb(253, 182, 193);
   text-decoration: underline;
 }
 
@@ -32,11 +32,11 @@
   color: #333;
   border: none;
   padding: 5px 10px;
-  font-size: 1.25rem;
+  font-size: 16px;
   cursor: pointer;
 }
 
 #accept-cookies:hover {
-  background-color: lightpink;
+  background-color: rgb(255, 98, 121);
   transition: 0.4s;
 }
