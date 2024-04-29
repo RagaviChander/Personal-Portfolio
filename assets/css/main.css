@@ -3948,13 +3948,13 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		color: #646b72;
+		color: #545a60;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
 		background-color: #f5f5f5;
-		color: #777b7f;
+		color: #616569;
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
@@ -4095,23 +4095,23 @@ input, select, textarea {
 		}
 
 		#footer ::-webkit-input-placeholder {
-			color: #999ca0 !important;
+			color: #8c8f93 !important;
 		}
 
 		#footer :-moz-placeholder {
-			color: #b3b7bb !important;
+			color: #9a9ea2 !important;
 		}
 
 		#footer ::-moz-placeholder {
-			color: #b3b7bb !important;
+			color: #9fa3a7 !important;
 		}
 
 		#footer :-ms-input-placeholder {
-			color: #b3b7bb !important;
+			color: #9fa2a5 !important;
 		}
 
 		#footer .formerize-placeholder {
-			color: #9fa3a6 !important;
+			color: #8b8f91 !important;
 		}
 
 		#footer ul.divided li {
