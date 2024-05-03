@@ -2914,7 +2914,15 @@ input, select, textarea {
 		header > .date {
 			display: block;
 			font-size: 0.8rem;
-			height: 1in;
+			height: 1mm;
+			margin: 0 0 1rem 0;
+			position: relative;
+		}
+
+		header > .course {
+			display: block;
+			font-size: 0.8rem;
+			height: 1mm;
 			margin: 0 0 1rem 0;
 			position: relative;
 		}
@@ -3783,7 +3791,7 @@ input, select, textarea {
 		}
 
 			#main > .post header.major > .date {
-				margin-top: -2rem;
+				margin-top: -1rem;
 			}
 
 			#main > .post header.major > h1, #main > .post header.major h2 {
